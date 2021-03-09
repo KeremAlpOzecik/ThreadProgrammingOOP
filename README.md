@@ -19,7 +19,7 @@ birer boşluk bırakarak yazılmış halde verilecektir:
 * 6 5
 * 8 7
 * 3 5
-Örneğin, ustteki 2x3 ve 3x2 matrisleri içeren txt
+*Örneğin, ustteki 2x3 ve 3x2 matrisleri içeren txt
  dosyaları gibi...
 * Tampon saha için bir Buffer sınıfı yazınız. Buffer sınıfı yapıcı (constructor) metodunda
 sonuç matrisine ilişkin satır ve sütun sayılarını alsın ve sonucun yerleşeceği iki boyutu diziyi
