@@ -13,12 +13,12 @@ Detaylar:
 birer boşluk bırakarak yazılmış halde verilecektir:
 
 #### Matris1.txt 
-2 8 9 
-1 3 5
+* 2 8 9 
+* 1 3 5
 #### Matris2.txt
-6 5
-8 7
-3 5
+* 6 5
+* 8 7
+* 3 5
 Örneğin, ustteki 2x3 ve 3x2 matrisleri içeren txt
  dosyaları gibi...
 * Tampon saha için bir Buffer sınıfı yazınız. Buffer sınıfı yapıcı (constructor) metodunda
