@@ -1,4 +1,4 @@
-# ThreadProgramignOOP
+# ThreadProgrammingOOP
 SORU 1. Aşağıda açıklanan uygulamayı Java dilinde gerçekleştiriniz.
 Problemin Genel Tanımı:
 MxN (M satır, N sütun) boyutunda bir matris ile NxP (N satır, P sütun) boyutundaki diğer bir
